@@ -64,5 +64,11 @@ body {
   display: block;
   border-radius: 50px;
   padding: 1rem 3rem;
-  margin: 1rem auto;
+  margin: 1.5rem auto;
+  transition: 0.3s ease-in-out all;
+}
+
+.btn:hover {
+  background: white;
+  color: red;
 }
